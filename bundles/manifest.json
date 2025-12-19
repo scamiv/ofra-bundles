@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "generatedAt": "2025-12-19T14:48:55.015Z",
+  "bundles": {
+    "2e52c0aa41933deb817337620b46e63dd69d3236": {
+      "hasMaps": true,
+      "tag": "v0.27.10",
+      "publishedAt": "2025-12-12T18:26:53Z"
+    },
+    "b832da308aacef36ec0e52f4d8e14383aba8d3ea": {
+      "hasMaps": true,
+      "tag": "v0.27.9",
+      "publishedAt": "2025-12-12T17:53:31Z"
+    },
+    "dab04eddb4659813a5d5159792a760251089c850": {
+      "hasMaps": true,
+      "tag": "v0.27.8",
+      "publishedAt": "2025-12-12T04:02:50Z"
+    },
+    "f4ed2a932fa02ab761a3e1b8d4d86516833ef0b1": {
+      "hasMaps": true,
+      "tag": "v0.28.0",
+      "publishedAt": "2025-12-18T19:12:50Z"
+    },
+    "ef0aff12e2fc9553e6951d441f756bf029f9993a": {
+      "hasMaps": true,
+      "tag": "v0.27.7",
+      "publishedAt": "2025-12-12T00:34:57Z"
+    }
+  },
+  "tags": {
+    "v0.27.10": "2e52c0aa41933deb817337620b46e63dd69d3236",
+    "v0.27.9": "b832da308aacef36ec0e52f4d8e14383aba8d3ea",
+    "v0.27.8": "dab04eddb4659813a5d5159792a760251089c850",
+    "v0.28.0": "f4ed2a932fa02ab761a3e1b8d4d86516833ef0b1",
+    "v0.27.7": "ef0aff12e2fc9553e6951d441f756bf029f9993a"
+  }
+}
