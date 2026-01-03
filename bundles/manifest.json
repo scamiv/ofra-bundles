@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-01-02T18:18:35.335Z",
+  "generatedAt": "2026-01-03T16:31:24.297Z",
   "bundles": {
     "2e52c0aa41933deb817337620b46e63dd69d3236": {
       "hasMaps": true,
@@ -46,6 +46,11 @@
       "hasMaps": true,
       "tag": "v0.28.4",
       "publishedAt": "2026-01-02T00:34:10Z"
+    },
+    "4c9fcdedf448f2dc0ca85297f4cb046e578cd574": {
+      "hasMaps": true,
+      "tag": "v0.26.7",
+      "publishedAt": "2025-10-23T22:08:13Z"
     }
   },
   "tags": {
@@ -57,6 +62,7 @@
     "v0.27.7": "ef0aff12e2fc9553e6951d441f756bf029f9993a",
     "v0.28.2": "671c9ea4ac9d11f7e562f7ce44b62d88de55f132",
     "v0.28.3": "ec694593a64f6a3d810354dfa920dbb3268aa54b",
-    "v0.28.4": "793efe4dd1bada597ed201059cfe27d21660f0c2"
+    "v0.28.4": "793efe4dd1bada597ed201059cfe27d21660f0c2",
+    "v0.26.7": "4c9fcdedf448f2dc0ca85297f4cb046e578cd574"
   }
 }
