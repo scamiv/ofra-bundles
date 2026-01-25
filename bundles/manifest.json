@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-01-19T22:35:34.739Z",
+  "generatedAt": "2026-01-25T23:17:30.587Z",
   "bundles": {
     "2e52c0aa41933deb817337620b46e63dd69d3236": {
       "hasMaps": true,
@@ -71,6 +71,26 @@
       "hasMaps": true,
       "tag": "v0.29.0",
       "publishedAt": "2026-01-19T18:26:24Z"
+    },
+    "87dab71e42b7309daa99c65314978a8f03cd5c0d": {
+      "hasMaps": true,
+      "tag": "v0.29.4",
+      "publishedAt": "2026-01-25T00:08:40Z"
+    },
+    "e9e2f06d69c6ca5a3d4e33b147a67434d537095d": {
+      "hasMaps": true,
+      "tag": "v0.29.3",
+      "publishedAt": "2026-01-20T19:08:58Z"
+    },
+    "776c644a84ce91019c10e090de56f0b20285d8a3": {
+      "hasMaps": true,
+      "tag": "v0.29.2",
+      "publishedAt": "2026-01-20T14:32:00Z"
+    },
+    "f6454963b215e46b69456307425bbe0629d7fd3a": {
+      "hasMaps": true,
+      "tag": "v0.29.1",
+      "publishedAt": "2026-01-20T03:34:33Z"
     }
   },
   "tags": {
@@ -87,6 +107,10 @@
     "v0.28.5": "e0ecad9cb83ec73b0ad06411ad855710bc4a521c",
     "v0.28.7": "d93b71da947596a4fe3887c57b81b2e48a58dc54",
     "v0.28.6": "bd26230b5c60c55a30d983c11868a5a1447443bc",
-    "v0.29.0": "ac56fccd8e17009d6a6e45eb7610be2d08b357d9"
+    "v0.29.0": "ac56fccd8e17009d6a6e45eb7610be2d08b357d9",
+    "v0.29.4": "87dab71e42b7309daa99c65314978a8f03cd5c0d",
+    "v0.29.3": "e9e2f06d69c6ca5a3d4e33b147a67434d537095d",
+    "v0.29.2": "776c644a84ce91019c10e090de56f0b20285d8a3",
+    "v0.29.1": "f6454963b215e46b69456307425bbe0629d7fd3a"
   }
 }
